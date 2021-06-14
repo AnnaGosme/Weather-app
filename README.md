@@ -1,3 +1,7 @@
+# Mobile Weather App
+
+![warm weather](https://res.cloudinary.com/octavian2111/image/upload/v1623701795/Screenshot_2021-06-14_at_22.11.27_a7lkg7.png)![cool weather](https://res.cloudinary.com/octavian2111/image/upload/v1623701804/Screenshot_2021-06-14_at_22.16.06_qqdob1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
