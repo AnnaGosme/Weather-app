@@ -1,6 +1,10 @@
 # Mobile Weather App
 
-![warm weather](https://res.cloudinary.com/octavian2111/image/upload/v1623701795/Screenshot_2021-06-14_at_22.11.27_a7lkg7.png)![cool weather](https://res.cloudinary.com/octavian2111/image/upload/v1623701804/Screenshot_2021-06-14_at_22.16.06_qqdob1.png)
+![warm weather](https://res.cloudinary.com/octavian2111/image/upload/v1623702329/Screenshot_2021-06-14_at_22.25.17_ahfkla.png)![cool weather](https://res.cloudinary.com/octavian2111/image/upload/v1623702281/Screenshot_2021-06-14_at_22.24.24_xqpzub.png)
+
+The purpose of this app was to practice React : fetching an API, passing props, using functional components. 
+
+Created following this awesome [tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU).
 
 # Getting Started with Create React App
 
